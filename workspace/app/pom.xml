@@ -29,5 +29,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 			<version>2.2</version>
 			<scope>provided</scope>
 		</dependency>
+		<dependency>
+			<groupId>org.apache.tomcat</groupId>
+			<artifactId>tomcat-jdbc</artifactId>
+			<version>8.0.20</version>
+		</dependency>
 	</dependencies>
 </project>
